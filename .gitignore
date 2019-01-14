@@ -1,2 +1,5 @@
 scratch.py
 *.txt
+*.dat
+*.bak
+*.dir
