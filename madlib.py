@@ -18,3 +18,6 @@ for ind, word in enumerate(word_list):
 new_text = ' '.join(word_list)
 print(new_text)
 
+with open('new.txt', 'w') as f:
+    f.write(new_text)
+
